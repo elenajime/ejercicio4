@@ -1,0 +1,152 @@
+.row-navbar {
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+.logo-align {
+    text-align: center;
+}
+.logo {
+    height: 50px;
+}
+.nav-item {
+    font-size: 14px;
+
+}
+.nav-link {
+    color: black;
+}
+.active-nav {
+    color: red;
+}
+a:hover {
+    color: red !important; 
+}
+.fotocarrusel { display: block; width: 100%; 
+}
+.fotocarrusel {
+  filter: grayscale(1);
+}
+.carousel-control-prev {
+    justify-content: left !important; 
+}
+.carousel-control-next {
+    justify-content: right !important;
+    width: auto !important; 
+}
+.carousel-inner {
+    max-height: 600px;
+}
+.bgcolor {
+    background-color: red !important;
+    width: 40px !important;
+    height: 100px !important;
+}
+.carrusel-text {
+    flex-direction: column;
+}
+.carrusel-overlay {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    position: absolute;
+    z-index: 1;
+}
+.bgred {
+    background-color: #ED564B;
+    padding: 40px 0;
+}
+.icon {
+    color: white;
+    border: 5px solid white;
+    background: transparent;
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 20px;
+    line-height: 60px;
+}
+.title-icon, .text-icon {
+    color: white;
+}
+.title-icon {
+    font-size: 23px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.text-icon {
+    font-size: 13px;
+}
+.h2-style {
+    margin: 60px 0 5px;
+    font-size: 24px;
+    color: #000;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.title-style {
+    padding: 0 15px 20px;
+}
+.p-style {
+    font-weight: bold;
+    border-bottom: 1px solid #dfdfdf;
+    color: #aaa;
+    padding-bottom: 20px;
+}
+.img-resize {
+    width: 100%;
+}
+.spam-class {
+    color: gray;
+    font-weight: bold;
+    font-size: 12px;
+}
+.span-red {
+    color:red;
+}
+.p-subtitle-bold {
+    font-weight: bold;
+}
+.text-small {
+    font-size: 13px;
+    color: gray;
+}
+.bottom {
+    margin-top: 70px;
+    padding: 20px 0px 40px 0px;
+    background: #3b3b3b;
+    border-top: 5px solid #ed564b;
+}
+.footer-text-tittle {
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+}
+.footer-text {
+    color: gray;
+    font-size: 12px;
+}
+.enlaces {
+    color: #aaa;
+    text-decoration: none;
+    padding: 7px 0px 7px 0px;
+    display: block;
+    font-size: 12px;
+    border-bottom: 1px dotted #aaa;
+}
+.colophon {
+    padding: 20px 0px;
+    background: #292929;
+    font-size: 12px;
+}
+.colophon-text {
+    color: white;
+    font-size: 12px;
+}
+.colophon-text a{
+    color: white;
+    font-size: 12px;
+}

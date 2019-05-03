@@ -1,0 +1,33 @@
+
+body {font-family: 'Roboto', sans-serif; text-align: center; background-color: #F6F6F6;
+}
+
+h2 {font-size: 25px; font-weight: 600; text-decoration-color: white; background-color: #E1BC29;
+}
+
+h3 {text-align: left; text-decoration-line: underline;
+}
+
+p {font-size: 20px; font-weight: 100;
+}
+
+#title{font-size: 35px; color: #E15554;
+}
+
+#mainlogo {width: 200px;
+}
+
+.coaching {font-size: 20px; font-weight: 100; text-align: left; list-style-type: circle;
+}
+
+.player {font-size: 20px; font-weight: 500; text-align: left;
+}
+
+.active {font-weight: bold;
+}
+
+.goals {text-align: left;
+}
+
+.goals a{color: #E15554; font-size: 20px; text-decoration-line: none;
+}

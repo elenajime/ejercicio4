@@ -1,0 +1,30 @@
+
+.container {
+    margin: 50px auto;
+  }
+.table-striped tbody tr:nth-of-type(even) {
+    background-color: rgba(0,0,0,.05);
+ }
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: white !important
+ }
+thead {
+    background-color: rgba(0,0,0,.05);
+
+ }
+tfoot {
+    background-color: beige;
+}
+.display {
+    display: flex; 
+justify-content: flex-end;
+}
+.parrafo {
+    text-align: right;
+    color: black;
+    font-size: 12px;
+}
+.margin {
+    margin: 10px;
+    margin right: 130px;
+}

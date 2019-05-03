@@ -1,0 +1,11 @@
+.table-hover tbody tr:hover {
+    color: #212529;
+    background-color: rgba(0,123,255,.25);
+}
+.custom-gallery {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.custom-gallery a{
+    margin-bottom: 20px;
+}
